@@ -13,6 +13,7 @@ var slidesCount = sliderImages.length;//5
 //Set Current Slide
 var currentSlide = 2;//2
 
+
 //Slide Number ELement
 var slideNumberElement = document.getElementById('slide-number');
 //div li fia (#1of4)
